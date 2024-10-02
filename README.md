@@ -29,6 +29,5 @@
 ## ***ML:***    
 [动手学深度学习](https://zh.d2l.ai/)  
 [Approaching (Almost) Any Machine Learning Problem (AAAMLP-CN)](https://ytzfhqs.github.io/AAAMLP-CN/)  
-  
-test
+
 
